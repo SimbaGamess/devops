@@ -7,7 +7,7 @@ public class Main{
     new Main();
   }
   public Main(){
-    outPrint(buildingString);
+    outPrint(buildString());
   }
 private String buildString(){
   String builded = "";
